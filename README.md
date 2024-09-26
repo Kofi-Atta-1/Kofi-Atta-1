@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Kofi-Atta-1<br>👀 I’m interested in coding...<br>🌱 I’m an aspiring developer proficient in Html, css, javascript, mysql and php ...<br>💞️ I’m looking to learn and collaborate on other projects...<br>📫 How to reach me kofiattax@gmail.com...<be>📞 My number is 0270063334
+👋 Hi, I’m @Kofi-Atta-1<br>👀 I’m interested in coding...<br>🌱 I’m an aspiring developer proficient in Html, css, javascript, mysql and php ...<br>💞️ I’m looking to learn and collaborate on other projects...<br>📫 How to reach me kofiattax@gmail.com...<br>📞 My number is 0270063334
 
 
 ## 🌐 Socials:
